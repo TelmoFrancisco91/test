@@ -1,1 +1,342 @@
-[{"dna":"030802020202","name":"#1","description":"This is an NFT made by the coolest generative code.","image":"https://hashlips/nft/1","edition":1,"date":1636392793297,"attributes":[{"name":"grey eye ball","rarity":"original"},{"name":"green big","rarity":"original"},{"name":"large","rarity":"original"},{"name":"shapes","rarity":"original"},{"name":"high bottom","rarity":"original"},{"name":"high top","rarity":"original"}]},{"dna":"050102020202","name":"#2","description":"This is an NFT made by the coolest generative code.","image":"https://hashlips/nft/2","edition":2,"date":1636392793933,"attributes":[{"name":"white eye ball","rarity":"original"},{"name":"red small super rare","rarity":"original"},{"name":"large","rarity":"original"},{"name":"shapes","rarity":"original"},{"name":"high bottom","rarity":"original"},{"name":"high top","rarity":"original"}]},{"dna":"040002020202","name":"#3","description":"This is an NFT made by the coolest generative code.","image":"https://hashlips/nft/3","edition":3,"date":1636392794432,"attributes":[{"name":"red eye ball","rarity":"original"},{"name":"red big super rare","rarity":"original"},{"name":"large","rarity":"original"},{"name":"shapes","rarity":"original"},{"name":"high bottom","rarity":"original"},{"name":"high top","rarity":"original"}]},{"dna":"0301002020202","name":"#4","description":"This is an NFT made by the coolest generative code.","image":"https://hashlips/nft/4","edition":4,"date":1636392794884,"attributes":[{"name":"grey eye ball","rarity":"original"},{"name":"yellow big","rarity":"original"},{"name":"large","rarity":"original"},{"name":"shapes","rarity":"original"},{"name":"high bottom","rarity":"original"},{"name":"high top","rarity":"original"}]},{"dna":"030202020202","name":"#5","description":"This is an NFT made by the coolest generative code.","image":"https://hashlips/nft/5","edition":5,"date":1636392795361,"attributes":[{"name":"grey eye ball","rarity":"original"},{"name":"pink big rare","rarity":"original"},{"name":"large","rarity":"original"},{"name":"shapes","rarity":"original"},{"name":"high bottom","rarity":"original"},{"name":"high top","rarity":"original"}]},{"dna":"020201010101","name":"#6","description":"This is an NFT made by the coolest generative code.","image":"https://hashlips/nft/6","edition":6,"date":1636392795828,"attributes":[{"name":"green eye ball rare","rarity":"rare"},{"name":"pink big rare","rarity":"rare"},{"name":"medium rare","rarity":"rare"},{"name":"shapes rare","rarity":"rare"},{"name":"tilted bottom rare","rarity":"rare"},{"name":"low top rare","rarity":"rare"}]},{"dna":"020501010101","name":"#7","description":"This is an NFT made by the coolest generative code.","image":"https://hashlips/nft/7","edition":7,"date":1636392796234,"attributes":[{"name":"green eye ball rare","rarity":"rare"},{"name":"purple small rare","rarity":"rare"},{"name":"medium rare","rarity":"rare"},{"name":"shapes rare","rarity":"rare"},{"name":"tilted bottom rare","rarity":"rare"},{"name":"low top rare","rarity":"rare"}]},{"dna":"010301010101","name":"#8","description":"This is an NFT made by the coolest generative code.","image":"https://hashlips/nft/8","edition":8,"date":1636392796816,"attributes":[{"name":"eye ball rare","rarity":"rare"},{"name":"pink small rare","rarity":"rare"},{"name":"medium rare","rarity":"rare"},{"name":"shapes rare","rarity":"rare"},{"name":"tilted bottom rare","rarity":"rare"},{"name":"low top rare","rarity":"rare"}]},{"dna":"020401010101","name":"#9","description":"This is an NFT made by the coolest generative code.","image":"https://hashlips/nft/9","edition":9,"date":1636392797354,"attributes":[{"name":"green eye ball rare","rarity":"rare"},{"name":"purple big rare","rarity":"rare"},{"name":"medium rare","rarity":"rare"},{"name":"shapes rare","rarity":"rare"},{"name":"tilted bottom rare","rarity":"rare"},{"name":"low top rare","rarity":"rare"}]},{"dna":"010000000000","name":"#10","description":"This is an NFT made by the coolest generative code.","image":"https://hashlips/nft/10","edition":10,"date":1636392797958,"attributes":[{"name":"eye ball rare","rarity":"super_rare"},{"name":"red big super rare","rarity":"super_rare"},{"name":"small super rare","rarity":"super_rare"},{"name":"shapes super rare","rarity":"super_rare"},{"name":"low bottom super rare","rarity":"super_rare"},{"name":"tilted top super rare","rarity":"super_rare"}]}]
+[
+   {
+      "dna":"030802020202",
+      "name":"#1",
+      "description":"This is an NFT made by the coolest generative code.",
+      "image":"https://github.com/TelmoFrancisco91/test/edit/main/1.png",
+      "edition":1,
+      "date":1636392793297,
+      "attributes":[
+         {
+            "name":"grey eye ball",
+            "rarity":"original"
+         },
+         {
+            "name":"green big",
+            "rarity":"original"
+         },
+         {
+            "name":"large",
+            "rarity":"original"
+         },
+         {
+            "name":"shapes",
+            "rarity":"original"
+         },
+         {
+            "name":"high bottom",
+            "rarity":"original"
+         },
+         {
+            "name":"high top",
+            "rarity":"original"
+         }
+      ]
+   },
+   {
+      "dna":"050102020202",
+      "name":"#2",
+      "description":"This is an NFT made by the coolest generative code.",
+      "image":"https://github.com/TelmoFrancisco91/test/edit/main/2.png",
+      "edition":2,
+      "date":1636392793933,
+      "attributes":[
+         {
+            "name":"white eye ball",
+            "rarity":"original"
+         },
+         {
+            "name":"red small super rare",
+            "rarity":"original"
+         },
+         {
+            "name":"large",
+            "rarity":"original"
+         },
+         {
+            "name":"shapes",
+            "rarity":"original"
+         },
+         {
+            "name":"high bottom",
+            "rarity":"original"
+         },
+         {
+            "name":"high top",
+            "rarity":"original"
+         }
+      ]
+   },
+   {
+      "dna":"040002020202",
+      "name":"#3",
+      "description":"This is an NFT made by the coolest generative code.",
+      "image":"https://github.com/TelmoFrancisco91/test/edit/main/3.png",
+      "edition":3,
+      "date":1636392794432,
+      "attributes":[
+         {
+            "name":"red eye ball",
+            "rarity":"original"
+         },
+         {
+            "name":"red big super rare",
+            "rarity":"original"
+         },
+         {
+            "name":"large",
+            "rarity":"original"
+         },
+         {
+            "name":"shapes",
+            "rarity":"original"
+         },
+         {
+            "name":"high bottom",
+            "rarity":"original"
+         },
+         {
+            "name":"high top",
+            "rarity":"original"
+         }
+      ]
+   },
+   {
+      "dna":"0301002020202",
+      "name":"#4",
+      "description":"This is an NFT made by the coolest generative code.",
+      "image":"https://github.com/TelmoFrancisco91/test/edit/main/4.png",
+      "edition":4,
+      "date":1636392794884,
+      "attributes":[
+         {
+            "name":"grey eye ball",
+            "rarity":"original"
+         },
+         {
+            "name":"yellow big",
+            "rarity":"original"
+         },
+         {
+            "name":"large",
+            "rarity":"original"
+         },
+         {
+            "name":"shapes",
+            "rarity":"original"
+         },
+         {
+            "name":"high bottom",
+            "rarity":"original"
+         },
+         {
+            "name":"high top",
+            "rarity":"original"
+         }
+      ]
+   },
+   {
+      "dna":"030202020202",
+      "name":"#5",
+      "description":"This is an NFT made by the coolest generative code.",
+      "image":"https://github.com/TelmoFrancisco91/test/edit/main/5.png",
+      "edition":5,
+      "date":1636392795361,
+      "attributes":[
+         {
+            "name":"grey eye ball",
+            "rarity":"original"
+         },
+         {
+            "name":"pink big rare",
+            "rarity":"original"
+         },
+         {
+            "name":"large",
+            "rarity":"original"
+         },
+         {
+            "name":"shapes",
+            "rarity":"original"
+         },
+         {
+            "name":"high bottom",
+            "rarity":"original"
+         },
+         {
+            "name":"high top",
+            "rarity":"original"
+         }
+      ]
+   },
+   {
+      "dna":"020201010101",
+      "name":"#6",
+      "description":"This is an NFT made by the coolest generative code.",
+      "image":"https://github.com/TelmoFrancisco91/test/edit/main/6.png",
+      "edition":6,
+      "date":1636392795828,
+      "attributes":[
+         {
+            "name":"green eye ball rare",
+            "rarity":"rare"
+         },
+         {
+            "name":"pink big rare",
+            "rarity":"rare"
+         },
+         {
+            "name":"medium rare",
+            "rarity":"rare"
+         },
+         {
+            "name":"shapes rare",
+            "rarity":"rare"
+         },
+         {
+            "name":"tilted bottom rare",
+            "rarity":"rare"
+         },
+         {
+            "name":"low top rare",
+            "rarity":"rare"
+         }
+      ]
+   },
+   {
+      "dna":"020501010101",
+      "name":"#7",
+      "description":"This is an NFT made by the coolest generative code.",
+      "image":"https://github.com/TelmoFrancisco91/test/edit/main/7.png",
+      "edition":7,
+      "date":1636392796234,
+      "attributes":[
+         {
+            "name":"green eye ball rare",
+            "rarity":"rare"
+         },
+         {
+            "name":"purple small rare",
+            "rarity":"rare"
+         },
+         {
+            "name":"medium rare",
+            "rarity":"rare"
+         },
+         {
+            "name":"shapes rare",
+            "rarity":"rare"
+         },
+         {
+            "name":"tilted bottom rare",
+            "rarity":"rare"
+         },
+         {
+            "name":"low top rare",
+            "rarity":"rare"
+         }
+      ]
+   },
+   {
+      "dna":"010301010101",
+      "name":"#8",
+      "description":"This is an NFT made by the coolest generative code.",
+      "image":"https://github.com/TelmoFrancisco91/test/edit/main/8.png",
+      "edition":8,
+      "date":1636392796816,
+      "attributes":[
+         {
+            "name":"eye ball rare",
+            "rarity":"rare"
+         },
+         {
+            "name":"pink small rare",
+            "rarity":"rare"
+         },
+         {
+            "name":"medium rare",
+            "rarity":"rare"
+         },
+         {
+            "name":"shapes rare",
+            "rarity":"rare"
+         },
+         {
+            "name":"tilted bottom rare",
+            "rarity":"rare"
+         },
+         {
+            "name":"low top rare",
+            "rarity":"rare"
+         }
+      ]
+   },
+   {
+      "dna":"020401010101",
+      "name":"#9",
+      "description":"This is an NFT made by the coolest generative code.",
+      "image":"https://github.com/TelmoFrancisco91/test/edit/main/9.png",
+      "edition":9,
+      "date":1636392797354,
+      "attributes":[
+         {
+            "name":"green eye ball rare",
+            "rarity":"rare"
+         },
+         {
+            "name":"purple big rare",
+            "rarity":"rare"
+         },
+         {
+            "name":"medium rare",
+            "rarity":"rare"
+         },
+         {
+            "name":"shapes rare",
+            "rarity":"rare"
+         },
+         {
+            "name":"tilted bottom rare",
+            "rarity":"rare"
+         },
+         {
+            "name":"low top rare",
+            "rarity":"rare"
+         }
+      ]
+   },
+   {
+      "dna":"010000000000",
+      "name":"#10",
+      "description":"This is an NFT made by the coolest generative code.",
+      "image":"https://github.com/TelmoFrancisco91/test/edit/main/10.png",
+      "edition":10,
+      "date":1636392797958,
+      "attributes":[
+         {
+            "name":"eye ball rare",
+            "rarity":"super_rare"
+         },
+         {
+            "name":"red big super rare",
+            "rarity":"super_rare"
+         },
+         {
+            "name":"small super rare",
+            "rarity":"super_rare"
+         },
+         {
+            "name":"shapes super rare",
+            "rarity":"super_rare"
+         },
+         {
+            "name":"low bottom super rare",
+            "rarity":"super_rare"
+         },
+         {
+            "name":"tilted top super rare",
+            "rarity":"super_rare"
+         }
+      ]
+   }
+]
