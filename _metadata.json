@@ -3,7 +3,7 @@
       "dna":"030802020202",
       "name":"#1",
       "description":"This is an NFT made by the coolest generative code.",
-      "image":"https://github.com/TelmoFrancisco91/test/edit/main/1.png",
+      "image":"https://raw.githubusercontent.com/TelmoFrancisco91/test/main/1.png",
       "edition":1,
       "date":1636392793297,
       "attributes":[
@@ -37,7 +37,7 @@
       "dna":"050102020202",
       "name":"#2",
       "description":"This is an NFT made by the coolest generative code.",
-      "image":"https://github.com/TelmoFrancisco91/test/edit/main/2.png",
+      "image":"https://raw.githubusercontent.com/TelmoFrancisco91/test/main/2.png",
       "edition":2,
       "date":1636392793933,
       "attributes":[
@@ -71,7 +71,7 @@
       "dna":"040002020202",
       "name":"#3",
       "description":"This is an NFT made by the coolest generative code.",
-      "image":"https://github.com/TelmoFrancisco91/test/edit/main/3.png",
+      "image":"https://raw.githubusercontent.com/TelmoFrancisco91/test/main/3.png",
       "edition":3,
       "date":1636392794432,
       "attributes":[
@@ -105,7 +105,7 @@
       "dna":"0301002020202",
       "name":"#4",
       "description":"This is an NFT made by the coolest generative code.",
-      "image":"https://github.com/TelmoFrancisco91/test/edit/main/4.png",
+      "image":"https://raw.githubusercontent.com/TelmoFrancisco91/test/main/4.png",
       "edition":4,
       "date":1636392794884,
       "attributes":[
@@ -139,7 +139,7 @@
       "dna":"030202020202",
       "name":"#5",
       "description":"This is an NFT made by the coolest generative code.",
-      "image":"https://github.com/TelmoFrancisco91/test/edit/main/5.png",
+      "image":"https://raw.githubusercontent.com/TelmoFrancisco91/test/main/5.png",
       "edition":5,
       "date":1636392795361,
       "attributes":[
@@ -173,7 +173,7 @@
       "dna":"020201010101",
       "name":"#6",
       "description":"This is an NFT made by the coolest generative code.",
-      "image":"https://github.com/TelmoFrancisco91/test/edit/main/6.png",
+      "image":"https://raw.githubusercontent.com/TelmoFrancisco91/test/main/6.png",
       "edition":6,
       "date":1636392795828,
       "attributes":[
@@ -207,7 +207,7 @@
       "dna":"020501010101",
       "name":"#7",
       "description":"This is an NFT made by the coolest generative code.",
-      "image":"https://github.com/TelmoFrancisco91/test/edit/main/7.png",
+      "image":"https://raw.githubusercontent.com/TelmoFrancisco91/test/main/7.png",
       "edition":7,
       "date":1636392796234,
       "attributes":[
@@ -241,7 +241,7 @@
       "dna":"010301010101",
       "name":"#8",
       "description":"This is an NFT made by the coolest generative code.",
-      "image":"https://github.com/TelmoFrancisco91/test/edit/main/8.png",
+      "image":"https://raw.githubusercontent.com/TelmoFrancisco91/test/main/8.png",
       "edition":8,
       "date":1636392796816,
       "attributes":[
@@ -275,7 +275,7 @@
       "dna":"020401010101",
       "name":"#9",
       "description":"This is an NFT made by the coolest generative code.",
-      "image":"https://github.com/TelmoFrancisco91/test/edit/main/9.png",
+      "image":"https://raw.githubusercontent.com/TelmoFrancisco91/test/main/9.png",
       "edition":9,
       "date":1636392797354,
       "attributes":[
@@ -309,7 +309,7 @@
       "dna":"010000000000",
       "name":"#10",
       "description":"This is an NFT made by the coolest generative code.",
-      "image":"https://github.com/TelmoFrancisco91/test/edit/main/10.png",
+      "image":"https://raw.githubusercontent.com/TelmoFrancisco91/test/main/10.png",
       "edition":10,
       "date":1636392797958,
       "attributes":[
